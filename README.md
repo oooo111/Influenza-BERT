@@ -14,3 +14,6 @@ Our 100-shot finetune models have already been uploaded to Hugging Face(https://
 
 ## Eval
 The eval.ipynb file is a script for evaluating the test set.
+
+## Dataset
+ Our dataset release in:https://drive.google.com/drive/folders/1OUnX86jZrc7y0tYnLXjbxSrlNQzZM01O?dmr=1&ec=wgc-drive-hero-goto
