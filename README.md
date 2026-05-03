@@ -14,5 +14,5 @@ For input HA/NA fragments, our 10 subtype fine-tuned models have been uploaded t
 200-shot fine-tuned model for pathogenicity prediction. (https://huggingface.co/rongye1/Influenza_BERT/tree/main/200shot_InfulBERT_model)
 
 ## Eval
-The eval.ipynb file is a script for evaluating the test set.
+The eval.py file is a script for evaluating the test set.
 
